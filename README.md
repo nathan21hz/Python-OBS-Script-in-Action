@@ -4,7 +4,7 @@ Python OBS 脚本开发实战
 
 ## Intro
 
-本系列教程旨在简要介绍OBS的 Python API 和 Python 脚本的开发流程，同时通过针对性的实用案例帮助初学者快速上手并开发出适合自己的OBS直播插件。
+本系列教程旨在简要介绍OBS的 Python API 和 Python 脚本的开发流程，同时通过针对性的实用案例帮助初学者快速上手并开发出适合自己的OBS直播脚本。
 
 ### Environment
 
